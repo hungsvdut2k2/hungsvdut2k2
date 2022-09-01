@@ -1,8 +1,6 @@
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
-
 <h3> :man: &nbsp;About Me </h3>
 
 - 🔭 I’m currently studying at: Da Nang University Of Science And Technology
