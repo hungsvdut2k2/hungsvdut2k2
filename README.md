@@ -1,16 +1,42 @@
-### Hi there 👋
+![Welcome Banner](banner.gif)
 
-<!--
-**hungsvdut2k2/hungsvdut2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> :woman: &nbsp;About Me </h3>
+
+- 😄 Pronouns: She/Her/Hers 
+- 🔭 I’m currently studying at: Da Nang University Of Science And Technology
+- :heart: My favorite language: Python
+- 🌱 I’m currently learning: Math And Machine Learning
+- 👯 I’m always looking to collaborate with: scientist from any field
+
+<br/>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- :space_invader:
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL SERVER](![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)) 
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- 💻 &nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+<br/> 
+<p>
+
+<a align= "center" href="https://github.com/hungsvdut2k2">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=hungsvdut2k2&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+</p>
+<br/>
+
+
+-----
