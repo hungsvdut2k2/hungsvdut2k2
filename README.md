@@ -7,11 +7,10 @@
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning: Math And Machine Learning
 - 👯 I’m always looking to collaborate with: scientist from any field
-
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsvdut2k2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -22,8 +21,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br/>
-  ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsvdut2k2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <br/> 
