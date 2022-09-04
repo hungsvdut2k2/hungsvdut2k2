@@ -1,5 +1,4 @@
 ![Welcome Banner](banner.gif)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsvdut2k2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3> :man: &nbsp;About Me </h3>
 
