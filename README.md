@@ -25,7 +25,6 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   ![Top used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsvdut2k2)
-<br/>
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
