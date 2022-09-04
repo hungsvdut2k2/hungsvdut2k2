@@ -22,6 +22,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
   ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsvdut2k2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
