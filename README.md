@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning: Math And Machine Learning
 - 👯 I’m always looking to collaborate with: scientist from any field
 
-<br/>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
