@@ -5,7 +5,7 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🔭 I’m currently learning at: Da Nang University Of Science And Technology
-- :heart: My favorite language: SQL
+- :heart: My favorite language: Python
 - 🌱 I’m currently learning: Math And Machine Learning
 - 👯 I’m always looking to collaborate with: scientist from any field
 
